@@ -6,6 +6,7 @@ It allows users to connect, communicate, and share messages instantly with live 
 ✨ FEATURES
 
 ✅ User Authentication — Secure JWT-based login and signup
+
 ✅ Real-Time Messaging — Instant chat updates using Socket.io
 ✅ Online/Offline Status — Track connected users in real time
 ✅ Cloudinary Integration — Image upload support for user profiles or messages
