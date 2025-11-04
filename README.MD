@@ -3,15 +3,15 @@
 CONNEXT is a modern full-stack real-time chat web application built with React, Node.js, Express, MongoDB, and Socket.io.
 It allows users to connect, communicate, and share messages instantly with live updates — all wrapped in a clean, responsive, and interactive UI built using TailwindCSS.
 
-🚀 Features
+FEATURES :
 
-✅ User Authentication — Secure JWT-based login and signup
-✅ Real-Time Messaging — Instant chat updates using Socket.io
-✅ Online/Offline Status — Track connected users in real time
-✅ Cloudinary Integration — Image upload support for user profiles or messages
-✅ Responsive UI — Optimized for both desktop and mobile screens
-✅ Toast Notifications — Instant feedback using react-hot-toast
-✅ Scalable Architecture — Clean separation of frontend and backend logic
+User Authentication — Secure JWT-based login and signup
+Real-Time Messaging — Instant chat updates using Socket.io
+Online/Offline Status — Track connected users in real time
+Cloudinary Integration — Image upload support for user profiles or messages
+Responsive UI — Optimized for both desktop and mobile screens
+Toast Notifications — Instant feedback using react-hot-toast
+Scalable Architecture — Clean separation of frontend and backend logic
 
 🧠 Tech Stack
 
