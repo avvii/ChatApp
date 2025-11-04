@@ -8,10 +8,15 @@ It allows users to connect, communicate, and share messages instantly with live 
 ✅ User Authentication — Secure JWT-based login and signup
 
 ✅ Real-Time Messaging — Instant chat updates using Socket.io
+
 ✅ Online/Offline Status — Track connected users in real time
+
 ✅ Cloudinary Integration — Image upload support for user profiles or messages
+
 ✅ Responsive UI — Optimized for both desktop and mobile screens
+
 ✅ Toast Notifications — Instant feedback using react-hot-toast
+
 ✅ Scalable Architecture — Clean separation of frontend and backend logic
 
 🧠 Tech Stack
